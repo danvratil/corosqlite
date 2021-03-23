@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2021 Daniel Vrátil <me@dvratil.cz>
+//
+// SPDX-License-Identifier: MIT
+
 #include "sqlite.h"
 
 #include <iostream>

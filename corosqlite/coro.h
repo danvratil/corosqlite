@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2021 Daniel Vrátil <me@dvratil.cz>
+//
+// SPDX-License-Identifier: MIT
+
 #if defined(__clang__)
 #include <experimental/coroutine>
 namespace corosqlite::coro {

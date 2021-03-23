@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2021 Daniel Vrátil <me@dvratil.cz>
+#
+# SPDX-License-Identifier: MIT
+
 cmake_minimum_required(VERSION 3.12)
 project(corosqlite LANGUAGES CXX VERSION 0.1)
 
